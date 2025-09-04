@@ -15,6 +15,7 @@
 | **Templar**| Templar Single Chain Smart Contracts Security Review           | NEAR     | Smart Contract        | Rust             | [View Report](Templar-NEAR-Smart-Contract-Security-Review-Final-Report.pdf) |
  **Enjin**        | Relaychain and Matrixchain Security Review          | Enjin/Polkadot    | Substrate Layer-1     | Rust             | No Public Report |
 | **Cleopetra**| Solana Trading Bot Security Review           | Solana     | Smart Contract        | TypeScript             | [View Report](Cleopetra-Solana-Trading-Bot-Security-Review-Final-Report.pdf) |
+| **Virto Network**| Virto Network Pallet Pass Security Review           | Virto/Polkadot     | Substrate Pallet        | Rust             | [View Report](Virto-Network-Pallet-Pass-Security-Review-Final-Report.pdf) |
 | **Ample Protocol** | IP and Media Protocol Security Review            | NEAR     | Smart Contract        | Rust             | [View Report](Ample-Protocol-NEAR-Rust-Smart-Contract-Security-Assessment.pdf)                                    |
 | **DefiShards**   | Decentralized Investment Platform Security Review   | NEAR     | Smart Contract        | Rust             | [View Report](DeFiShards-NEAR-Rust-Smart-Contract-Security-Assessment-Final-Report.pdf)                         |
 | **Potlock**      | Portal For Public Goods And Funding Security Review | NEAR     | Smart Contract        | Rust             | [View Report](Potlock-NEAR-Rust-Smart-Contract-Security-Assessment.pdf)                                           |
